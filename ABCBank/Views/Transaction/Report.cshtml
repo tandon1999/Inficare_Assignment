@@ -1,0 +1,93 @@
+﻿@model ABCBank.Models.TransactionReportViewModel
+
+<h2>Transaction Report</h2>
+
+<form asp-action="Report" method="post">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label>From Date</label>
+                <input type="date" asp-for="FromDate" class="form-control" />
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label>To Date</label>
+                <input type="date" asp-for="ToDate" class="form-control" />
+            </div>
+        </div>
+        <div class="col-md-4 align-self-end">
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </div>
+    </div>
+</form>
+
+
+<style>
+    .no-data-message {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .table td, .table th {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+
+    .no-data-row td {
+        text-align: center;
+        padding: 20px;
+    }
+</style>
+
+<table class="table table-bordered mt-4">
+    <thead>
+        <tr>
+            <th>SN</th>
+            <th>Sender</th>
+            <th>Receiver</th>
+            <th>Bank Name</th>
+            <th>Account Number</th>
+            <th>Transfer Amount (MYR)</th>
+            <th>Payout Amount (NPR)</th>
+            <th>Transfer Date</th>
+        </tr>
+    </thead>
+    @if (Model.Transactions != null && Model.Transactions.Any())
+    {
+        <tbody>
+            @{
+                var sn = 1;
+            }
+            @foreach (var transaction in Model.Transactions)
+            {
+                <tr>
+                    <td>@sn</td>
+                    <td>@transaction.SenderFirstName @transaction.SenderLastName</td>
+                    <td>@transaction.ReceiverFirstName @transaction.ReceiverLastName</td>
+                    <td>@transaction.BankName</td>
+                    <td>@transaction.AccountNumber</td>
+                    <td>@transaction.TransferAmountMYR</td>
+                    <td>@transaction.PayoutAmountNPR</td>
+                    <td>@transaction.TransferDate.ToString("yyyy-MM-dd")</td>
+                </tr>
+                sn++;
+            }
+        </tbody>
+    }
+    else
+    {
+        <tbody>
+            <tr class="no-data-row">
+                <td colspan="8" class="no-data-message">
+                    No transactions found for the selected date range.
+                </td>
+            </tr>
+        </tbody>
+    }
+</table>

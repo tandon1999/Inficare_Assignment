@@ -1,0 +1,84 @@
+﻿@model ABCBank.Models.TransactionModal
+
+<h2>Transfer Money from Malaysia to Nepal</h2>
+
+<form asp-action="Transfer" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <h4>Sender Details</h4>
+            <div class="form-group">
+                <label asp-for="SenderFirstName"></label>
+                <input asp-for="SenderFirstName" class="form-control" />
+                <span asp-validation-for="SenderFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SenderMiddleName"></label>
+                <input asp-for="SenderMiddleName" class="form-control" />
+                <span asp-validation-for="SenderMiddleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SenderLastName"></label>
+                <input asp-for="SenderLastName" class="form-control" />
+                <span asp-validation-for="SenderLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SenderAddress"></label>
+                <input asp-for="SenderAddress" class="form-control" />
+                <span asp-validation-for="SenderAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SenderCountry"></label>
+                <input asp-for="SenderCountry" class="form-control" />
+                <span asp-validation-for="SenderCountry" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <h4>Receiver Details</h4>
+            <div class="form-group">
+                <label asp-for="ReceiverFirstName"></label>
+                <input asp-for="ReceiverFirstName" class="form-control" />
+                <span asp-validation-for="ReceiverFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverMiddleName"></label>
+                <input asp-for="ReceiverMiddleName" class="form-control" />
+                <span asp-validation-for="ReceiverMiddleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverLastName"></label>
+                <input asp-for="ReceiverLastName" class="form-control" />
+                <span asp-validation-for="ReceiverLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverAddress"></label>
+                <input asp-for="ReceiverAddress" class="form-control" />
+                <span asp-validation-for="ReceiverAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverCountry"></label>
+                <input asp-for="ReceiverCountry" class="form-control" />
+                <span asp-validation-for="ReceiverCountry" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+    <h4>Payment Details</h4>
+    <div class="form-group">
+        <label asp-for="BankName"></label>
+        <input asp-for="BankName" class="form-control" />
+        <span asp-validation-for="BankName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AccountNumber"></label>
+        <input asp-for="AccountNumber" class="form-control" />
+        <span asp-validation-for="AccountNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TransferAmountMYR"></label>
+        <input asp-for="TransferAmountMYR" class="form-control" />
+        <span asp-validation-for="TransferAmountMYR" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Transfer</button>
+</form>

@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\areas\\identity\\data\\abcbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:areas\\identity\\data\\abcbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\models\\transactionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:models\\transactionreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\home\\exchangerate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\home\\exchangerate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\transaction\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\transaction\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\transaction\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\transaction\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\areas\\identity\\data\\abcbankuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:areas\\identity\\data\\abcbankuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\transaction\\transferconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\transaction\\transferconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\models\\transactionmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:models\\transactionmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\migrations\\20250304130426_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:migrations\\20250304130426_transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|c:\\users\\suman\\onedrive\\documents\\github\\inficare\\abcbank\\migrations\\20250304084020_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF483A6-70F4-47A5-A7FE-F193A7BE4C3E}|ABCBank.csproj|solutionrelative:migrations\\20250304084020_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:15:02.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ABCBankUser.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Data\\ABCBankUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ABCBankUser.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Data\\ABCBankUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ABCBankUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:19:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:37:20.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABCBankContext.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Data\\ABCBankContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ABCBankContext.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Data\\ABCBankContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ABCBankContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:42:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Services\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "Services\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Services\\ExchangeRateService.cs",
+              "RelativeToolTip": "Services\\ExchangeRateService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:08:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\TransactionReportViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionReportViewModel.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\TransactionReportViewModel.cs",
+              "RelativeToolTip": "Models\\TransactionReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:12:08.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:26:38.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\Report.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Report.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\Report.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Report.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T13:12:48.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:05:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transfer.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\Transfer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\Transfer.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\Transfer.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\Transfer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T12:42:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRate.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Home\\ExchangeRate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ExchangeRate.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Home\\ExchangeRate.cshtml",
+              "RelativeToolTip": "Views\\Home\\ExchangeRate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T12:10:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:40:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAawFYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:39:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T11:50:24.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionModal.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\TransactionModal.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionModal.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Models\\TransactionModal.cs",
+              "RelativeToolTip": "Models\\TransactionModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:35:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250304130426_transaction.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Migrations\\20250304130426_transaction.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304130426_transaction.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Migrations\\20250304130426_transaction.cs",
+              "RelativeToolTip": "Migrations\\20250304130426_transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:04:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T08:26:40.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransferConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\TransferConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transaction\\TransferConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Transaction\\TransferConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Transaction\\TransferConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T12:43:08.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:53:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T11:52:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T11:53:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-04T08:35:50.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T07:51:01.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250304084020_initial.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Migrations\\20250304084020_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304084020_initial.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Migrations\\20250304084020_initial.cs",
+              "RelativeToolTip": "Migrations\\20250304084020_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:40:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T08:40:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\suman\\OneDrive\\Documents\\GitHub\\INFICARE\\ABCBank\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:42:52.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

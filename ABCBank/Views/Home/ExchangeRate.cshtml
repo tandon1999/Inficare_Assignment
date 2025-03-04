@@ -1,0 +1,37 @@
+﻿@model ABCBank.Services.ExchangeRateResponse
+
+<h2>Current Exchange Rates</h2>
+
+@if (Model?.Data?.Payload != null && Model.Data.Payload.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Currency</th>
+                <th>Currency Name</th>
+                <th>Unit</th>
+                <th>Buy Rate</th>
+                <th>Sell Rate</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var payload in Model.Data.Payload)
+            {
+                @foreach (var rate in payload.Rates)
+                {
+                    <tr>
+                        <td>@rate.Currency.Iso3</td>
+                        <td>@rate.Currency.Name</td>
+                        <td>@rate.Currency.Unit</td>
+                        <td>@rate.Buy?.ToString("F2") </td> 
+                        <td>@rate.Sell?.ToString("F2")</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No exchange rates available.</p>
+}
